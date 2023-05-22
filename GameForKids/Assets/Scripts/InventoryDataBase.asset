@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea35c9354ccb5c349b40e8d694f9fadd, type: 3}
+  m_Name: InventoryDataBase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Bookcase
+    <ID>k__BackingField: 1
+    <Amount>k__BackingField: 2
+    <ButtonPrefab>k__BackingField: {fileID: 1454256179976139600, guid: a575a2e60e299204f8293b645a75bd5f, type: 3}
+  - <Name>k__BackingField: Plant
+    <ID>k__BackingField: 2
+    <Amount>k__BackingField: 2
+    <ButtonPrefab>k__BackingField: {fileID: 1454256179976139600, guid: a575a2e60e299204f8293b645a75bd5f, type: 3}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 714ead464d06aa947ae7ea9315c968ce, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Table
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Height>k__BackingField: 1
+    <Price>k__BackingField: 50
+    <Placeble>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 6019224132331063095, guid: faf862970da2f564980de41595251e96, type: 3}
+    Sprite: {fileID: 21300000, guid: 2a7f9071bf7a29645b88b19e291f73e7, type: 3}
+  - <Name>k__BackingField: Bookcase
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 3, y: 1}
+    <Height>k__BackingField: 3
+    <Price>k__BackingField: 70
+    <Placeble>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 3446799136842670218, guid: 2534b50b42927354aafcda7b8964588d, type: 3}
+    Sprite: {fileID: 21300000, guid: bb32b3f475019eb46a1eaa6e56e92fb1, type: 3}
+  - <Name>k__BackingField: Plant
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Height>k__BackingField: 0
+    <Price>k__BackingField: 10
+    <Placeble>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 3530315661418890413, guid: b0af0b93b4d8e1b438f3f4a32b93e18c, type: 3}
+    Sprite: {fileID: 21300000, guid: 51aec7ba42ca36b4dae007b68bf0ed15, type: 3}
+  - <Name>k__BackingField: BunkBed
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 2, y: 4}
+    <Height>k__BackingField: 3
+    <Price>k__BackingField: 100
+    <Placeble>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 1263890961762262999, guid: b5eaab49d79d3984b9cf64d04a40dece, type: 3}
+    Sprite: {fileID: 21300000, guid: 77f0d9c11c7a3674abdce57c5222f462, type: 3}
+  - <Name>k__BackingField: BlueSofa
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 4, y: 2}
+    <Height>k__BackingField: 3
+    <Price>k__BackingField: 200
+    <Placeble>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 6888640551723173251, guid: 636333116a72aee49ad2ea817c3bd7f4, type: 3}
+    Sprite: {fileID: 21300000, guid: ca46ef84000a7424f88fa90bd53dc446, type: 3}
+  - <Name>k__BackingField: Chair
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Height>k__BackingField: 3
+    <Price>k__BackingField: 25
+    <Placeble>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 1705773425612162507, guid: f1b0e56455e532a47b3e564bb796facc, type: 3}
+    Sprite: {fileID: 21300000, guid: 32379ec5593d9c5478a71bb93239605a, type: 3}
